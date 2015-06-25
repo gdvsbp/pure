@@ -200,7 +200,7 @@ grunt.initConfig({
             options: {
                 mediaQueries: {
                     sm: 'screen and (min-width: 35.5em)',   // 568px
-                    md: 'screen and (min-width: 48em)',     // 768px
+                    md: 'screen and (min-width: 48.0625em)',     // 768px
                     lg: 'screen and (min-width: 64em)',     // 1024px
                     xl: 'screen and (min-width: 80em)'      // 1280px
                 }
